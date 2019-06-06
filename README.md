@@ -8,6 +8,6 @@ The notebook is a guideline for the author for upcoming projects. The main takea
 
 ### Installation:
 
-Download the repository of the project. Install `anaconda` environment into your local system or use `google colab`. For the following project, I did use google colab. To install tensorflow 2.0 in colab: 
+Download the repository of the project. Install `anaconda` environment into your local system or use `google colab`. For the following project, I mainly used colab. To install tensorflow 2.0 in colab: 
 
 > !pip install -q tensorflow==2.0.0-alpha0
