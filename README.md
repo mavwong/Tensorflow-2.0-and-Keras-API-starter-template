@@ -2,7 +2,7 @@
 
 ## Project Detail
 
-The notebook is a guideline for the author for upcoming projects. The main takeaway here is it uses the latest `tensorflow` high level api and dataset to understand artificial neural network, convolutional neural network and recurrent neural network, hence `deep learning.`  
+The notebook is a guideline for the author for upcoming projects. The main takeaway here is it uses the latest `tensorflow 2.0` high level api and dataset to understand artificial neural network, convolutional neural network and recurrent neural network, hence *deep learning*.  
 
 ## Getting Started
 
