@@ -12,6 +12,11 @@ Download the repository of the project. Install `anaconda` environment into your
 
 > !pip install -q tensorflow==2.0.0-alpha0
 
+### Starter code for TF 2.0:
+
+- TF2_lowlvlapi.ipynb
+- TF2_highlvlapi.ipynb
+
 ## Acknowledgement
 
 * https://www.tensorflow.org/
